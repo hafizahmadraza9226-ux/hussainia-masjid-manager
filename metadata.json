@@ -1,0 +1,6 @@
+{
+  "name": "مسجد مینجمنٹ",
+  "description": "Multi-Mosque Management System for financial accounts, donations, receipts, budgets, utilities, salaries, and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
